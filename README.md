@@ -15,7 +15,7 @@ To make it all simple i intend to build a repo with a pyramid structure, with th
 Remember, *present Clerijr*, focus on this project to the end! 
 
 
->References: 
+>References:<br>
 [**Eloquent Javascript**](https://eloquentjavascript.net/)<br>
 [**Javascript Patterns**](https://www.oreilly.com/library/view/javascript-patterns/9781449399115/)<br>
 [**Estruturas de dados e algoritmos com JavaScript**](https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript-2ed/)<br>
