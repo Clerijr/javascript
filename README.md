@@ -18,10 +18,7 @@ Remember, *present Clerijr*, focus on this project to the end!
 1. [**Variables and Values**](Javascript%20101%20-%20Basics/Variables_and_values.md)<br>
 2. [**Operators**](Javascript%20101%20-%20Basics/Variables_and_values.md)<br>
 
-
-
-
->References:
+>References:<br>
 [**Eloquent Javascript**](https://eloquentjavascript.net/)<br>
 [**Javascript Patterns**](https://www.oreilly.com/library/view/javascript-patterns/9781449399115/)<br>
 [**Estruturas de dados e algoritmos com JavaScript**](https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript-2ed/)<br>
