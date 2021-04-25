@@ -16,7 +16,7 @@ Remember, *present Clerijr*, focus on this project to the end!
 
 
 >References: 
-[**Eloquent Javascript**](https://eloquentjavascript.net/)
-[**Javascript Patterns**](https://www.oreilly.com/library/view/javascript-patterns/9781449399115/)
-[**Estruturas de dados e algoritmos com JavaScript**](https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript-2ed/) 
-[**How to use Javascriot Unary Operators**](https://www.digitalocean.com/community/tutorials/javascript-unary-operators-simple-and-useful)
+[**Eloquent Javascript**](https://eloquentjavascript.net/)<br>
+[**Javascript Patterns**](https://www.oreilly.com/library/view/javascript-patterns/9781449399115/)<br>
+[**Estruturas de dados e algoritmos com JavaScript**](https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript-2ed/)<br>
+[**How to use Javascriot Unary Operators**](https://www.digitalocean.com/community/tutorials/javascript-unary-operators-simple-and-useful)<br>
