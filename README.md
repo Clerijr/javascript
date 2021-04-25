@@ -12,10 +12,11 @@ So, let's go, thats gonna be a repository for newbies, showing some simple and s
 
 To make it all simple i intend to build a repo with a pyramid structure, with the basics(variables, loops, operators...) at the bottom and getting more complex at the peak, don't know yet what exactly will be the ending topic, but something with **NodeJs** probably.
 
-Remember, *present Clerijr*, focus in this project to the end! 
+Remember, *present Clerijr*, focus on this project to the end! 
 
 
-
-References: [**Eloquent Javascript**](https://eloquentjavascript.net/)
+>References: 
+[**Eloquent Javascript**](https://eloquentjavascript.net/)
 [**Javascript Patterns**](https://www.oreilly.com/library/view/javascript-patterns/9781449399115/)
 [**Estruturas de dados e algoritmos com JavaScript**](https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript-2ed/) 
+[**How to use Javascriot Unary Operators**](https://www.digitalocean.com/community/tutorials/javascript-unary-operators-simple-and-useful)
