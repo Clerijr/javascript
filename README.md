@@ -14,7 +14,7 @@ To make it all simple i intend to build a repo with a pyramid structure, with th
 
 Remember, *present Clerijr*, focus on this project to the end! 
 
-####Basics
+#### Basics
 1. [**Variables and Values**](Javascript%20101%20-%20Basics/Variables_and_values.md)<br>
 2. [**Operators**](Javascript%20101%20-%20Basics/Variables_and_values.md)<br>
 

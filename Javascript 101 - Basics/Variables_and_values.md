@@ -38,4 +38,4 @@ Those values can be divided by some types:
     - Those values are interchangeable, the simplest example of them is declaring a variable without a value assigned to it(`let noValue`).
 
 
-<div align="center"><a href="Operators.md">Operators&nbsp;&#10140;</a></div>
+<div style="display:flex;justify-content:space-between"><a href="README.md">HOME</a><a href="Operators.md">Operators&nbsp;&#10140;</a></div>
