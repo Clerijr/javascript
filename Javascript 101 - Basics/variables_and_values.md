@@ -45,4 +45,4 @@ Those values can be divided by some types:
 
 
 
-<p align="center"><a href="README.md">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Operators.md">Operators&nbsp;&#10140;</a></p>
+<p align="center"><a href="README.md">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="operators.md">Operators&nbsp;&#10140;</a></p>
