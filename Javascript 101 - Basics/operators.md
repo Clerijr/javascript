@@ -1,5 +1,8 @@
-#### Let's make those values interact!
+### <div align="center">Operators</div>
+<div align="center"><i>Now we need some cement to turn those bricks into a single thing</i></div>
+</div>
 
+---
 Javascript needs more than informations to work, he need to know what to do with those informations. That's a lot of ways to do that, but the easiest and most common is using operators.
 
 ### Arithmetic
@@ -110,4 +113,5 @@ let smallNumber = 5
 bigNumber > smallNumber ? console.log("This'll be executed") : console.log("This'll be ignored")
 </pre>
 
-<div style="display:flex;justify-content:space-between"><a href="README.md">&#8592;&nbsp;Variables and Values</a><a href="README.md">HOME</a><a href="Operators.md">Conditionals&nbsp;&#8594;</a></div>
+<p align="center"><a href="variables_and_values.md">&#8592;&nbsp;Variables and Values</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README.md">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="operators.md">Conditionals and Loops&nbsp;&#8594;</a></p>
+

@@ -1,6 +1,12 @@
+### <div align="center">Variables and Values</div>
+<div align="center"><i>To build a house, we need some bricks. But it's gonna be clay or concrete?</i></div>
+</div>
+
+---
+
 Probably the best place to start (assuming that you know all the history about ecmascript and stuff like this) is talking about variables.
 
-Remember a bit:
+>Remember a bit:
 <div align="center">&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;0&nbsp;&nbsp;1&nbsp;&nbsp;0</div>
 <div align="center">128&nbsp;&nbsp;&nbsp;64&nbsp;&nbsp;32&nbsp;&nbsp;16&nbsp;&nbsp;8&nbsp;&nbsp;4&nbsp;&nbsp;2&nbsp;&nbsp;1</div>
 
@@ -38,4 +44,5 @@ Those values can be divided by some types:
     - Those values are interchangeable, the simplest example of them is declaring a variable without a value assigned to it(`let noValue`).
 
 
-<div style="display:flex;justify-content:space-between"><a href="README.md">HOME</a><a href="Operators.md">Operators&nbsp;&#10140;</a></div>
+
+<p align="center"><a href="README.md">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Operators.md">Operators&nbsp;&#10140;</a></p>

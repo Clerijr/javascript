@@ -15,8 +15,13 @@ To make it all simple i intend to build a repo with a pyramid structure, with th
 Remember, *present Clerijr*, focus on this project to the end! 
 
 #### Basics
-1. [**Variables and Values**](Javascript%20101%20-%20Basics/Variables_and_values.md)<br>
-2. [**Operators**](Javascript%20101%20-%20Basics/Variables_and_values.md)<br>
+1. [**Variables and Values**](Javascript%20101%20-%20Basics/variables_and_values.md)<br>
+2. [**Operators**](Javascript%20101%20-%20Basics/operators.md)<br>
+3. [**Conditionals and Loops**](Javascript%20101%20-%20Basics/conditionals_and_loops.md)<br>
+#### Intermediary
+1. [**Objects and Arrays**](./Fantastic%20Objects/objects_and_arrays.md)<br>
+
+
 
 >References:<br>
 [**Eloquent Javascript**](https://eloquentjavascript.net/)<br>
